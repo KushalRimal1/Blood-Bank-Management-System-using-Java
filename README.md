@@ -15,4 +15,3 @@ GUI Framework: Java Swing (JFrame, JPanel, JTable, JButton, etc.)
 Database: MySQL (with JDBC driver for connectivity)
 IDE: IntelliJ IDEA
 No external dependencies beyond standard Java libraries and MySQL Connector
-
